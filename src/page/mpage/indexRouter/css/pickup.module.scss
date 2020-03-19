@@ -1,0 +1,73 @@
+.inp {
+    padding: 0 15px;
+
+
+    .rvomadd,.boxAdd{
+        margin-top: 20px;
+        display: flex;
+        width: 100%;
+        span {
+            display: block;
+            padding-left: 5px;
+            text-align: center;
+            line-height: 45px;
+            background: white;
+            color: #000;
+        }
+
+        div {
+            flex: 1;
+        }
+    }
+
+    .update {
+
+        >div{
+            margin-top: 20px;
+            display: flex;
+        }
+
+        div {
+            flex: 1;
+
+            .divBlur {
+                width: 100%;
+                height: 100%;
+                background-color: #ffffff;
+                font-size: 17px;
+                padding-left: 14px;
+                line-height: 45px;
+            }
+        }
+
+        span {
+            display: block;
+            padding-left: 5px;
+            text-align: center;
+            line-height: 45px;
+            background: white;
+            color: #000;
+        }
+    }
+
+    .Divthree {
+        padding: 20px 15px;
+        display: flex;
+        justify-content: space-between;
+
+        .length {
+            width: 100px;
+            height: 40px;
+            // border: 1px solid #000;
+        }
+    }
+
+    .checkMap {
+        margin-top: 20px;
+    }
+
+
+    .input{
+        background-color: #ccc !important;
+    }
+}

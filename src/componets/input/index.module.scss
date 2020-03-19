@@ -1,0 +1,14 @@
+.index{
+    width: 100%;
+    padding: 20px 15px 0 15px;
+    display: flex;
+    .text{
+        line-height: 44px;
+        text-align: center;
+        background-color: white;
+        padding-left: 15px;
+    }
+    .inputCss{
+        flex: 1;
+    }
+}

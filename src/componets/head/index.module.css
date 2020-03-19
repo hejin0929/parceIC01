@@ -1,0 +1,15 @@
+--root{
+    --background-color:#108ee9;
+}
+.title{
+    padding: 5px;
+    height: 45px;
+    background-color: #108ee9;
+}
+.title h2{
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}

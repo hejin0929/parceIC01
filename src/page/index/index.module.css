@@ -1,0 +1,62 @@
+.maps{
+    width: 33%;
+    height: 111px;
+}
+ .item {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+.maps i {
+    font-size: 36px;
+    color: #7B8084;
+    margin-bottom: 10px;
+}
+.maps div{
+    font-size: 14px;
+    color: #7B8084;
+}
+.indexBody{
+    width: 100vw;
+    height: calc(100vh - 80px);
+    padding: 15px;
+}
+
+.indexs{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+
+.quit{
+    width: 100%;
+    height: 111px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    
+}
+
+.quit i {
+    font-size: 36px;
+    color: #7B8084;
+}
+.quit div{
+    font-size: 14px;
+    color: #7B8084;
+    margin-top: 10px;
+}
+.bot{
+    height: 40px;
+    width: 100vw;
+    background-color: #333;
+}
+
+.retquit {
+    width: 100px;
+    height: 60px;
+    margin: 0 auto;
+}

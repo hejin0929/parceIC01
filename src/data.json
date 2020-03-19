@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "title": "预约回填",
+      "iocn": "icon-shijian",
+      "url":"index"
+    },
+    {
+      "title": "大货拣货",
+      "iocn": "icon-chutijianhuo",
+      "url":"pickup"
+    },
+    {
+      "title": "小包拣货",
+      "iocn": "icon-shangpinjianhuo",
+      "url":"packet"
+    },
+    {
+      "title": "小包装箱",
+      "iocn": "icon-xiangzi",
+      "url":"packing"
+    },
+    {
+      "title": "录入跟踪号",
+      "iocn": "icon-luru",
+      "url":"enteringtracking"
+    },
+    {
+      "title": "查货",
+      "iocn": "icon-package-search",
+      "url":"check"
+    },
+    {
+      "title": "标签核对",
+      "iocn": "icon-hedui",
+      "url":"label"
+    },
+    {
+      "title": "货物扫描",
+      "iocn": "icon-sousuo",
+      "url":"scan"
+    },
+    {
+      "title": "单号关联",
+      "iocn": "icon-guanlian",
+      "url":"relation"
+    },
+    {
+      "title": "扫码换标",
+      "iocn": "icon-saoma",
+      "url":"relabel"
+    },
+    {
+      "title": "托盘管理",
+      "iocn": "icon-guanlian1",
+      "url":"pallet"
+    },
+    {
+      "title":"查货核对",
+      "iocn":"icon-7",
+      "url":"chahuo"
+    }
+  ]
+}

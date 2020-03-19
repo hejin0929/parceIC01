@@ -1,0 +1,25 @@
+.bodylaber{
+    padding: 0 15px;
+    .shipment,.container,.tailHas{
+        display: flex;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 17px;
+        .inp{
+            flex: 1;
+        }
+    }
+
+    .text{
+        line-height: 44px;
+        background-color: white;
+        padding-left: 15px;
+    }
+    .checked{
+        margin-top: 20px;
+    }
+
+    .divAdd{
+        margin-top: 20px;
+    }
+}
